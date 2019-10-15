@@ -1,0 +1,5 @@
+,,,,,,,,,,,,,,,
+,,RF_Low,RF_High,PRI_Low,PRI_High,PD_Low,PD_High,SP_Low,SP_High,IR_Low,IR_High,MT,ST,PRI Sequence,
+A123B,"Single RF, PRI Constant",8997,9003,2949,2951,1.45,1.55,,,44.0,44.8,KK,U,,
+,,,,,,,,,,,,,,,
+B123A,,,,,,,,,,,,,,,
